@@ -583,7 +583,7 @@ CONFIG_CMDLINE="androidboot.selinux=permissive"
 CONFIG_CMDLINE_EXTEND=y
 # CONFIG_EFI is not set
 # CONFIG_BUILD_ARM64_APPENDED_DTB_IMAGE is not set
-# CONFIG_UH is not set
+CONFIG_UH=y
 CONFIG_UH_LKMAUTH=y
 # CONFIG_UH_LKM_BLOCK is not set
 
